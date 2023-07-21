@@ -1,1 +1,9 @@
-# second_phase_model_for_lammps
+# LAMMPS模型生成器
+
+采用python实现的LAMMPS模型生成器：
+
+用于生成基体为Al，掺杂元素为Cu，第二相粒子Mg2Si的结构，
+
+基体元素，掺杂元素，与第二相粒子可依据需要进行修改.
+
+程序带有GUI界面，即开即用。
